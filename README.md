@@ -6,7 +6,7 @@
 
 A one-line joke entry for the make.fun bounty "One Line, No Deadline Met" — an excuse for missing a deadline, in a single line.
 
-Entry: "I didn't miss the deadline — I gave it a head start and forgot to start running." (80 characters)
+Entry: "I marked the deadline 'done' in my head on Monday, so my calendar assumed I meant it." (85 characters)
 
 ## Run
 
