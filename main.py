@@ -7,7 +7,7 @@ Deterministic, no network, no randomness.
 
 import os
 
-ENTRY = "I didn't miss the deadline \u2014 I gave it a head start and forgot to start running."
+ENTRY = "I marked the deadline 'done' in my head on Monday, so my calendar assumed I meant it."
 
 
 def main():
